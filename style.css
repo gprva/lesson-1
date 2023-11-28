@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.a_href_a{
+    color: #454545;
+    font-size: 18px;
+font-weight: 400;
+line-height: 24px; /* 133.333% */
+}
+.a_href_a:hover{
+    color: var(--f-6623-e, #F6623E);
+    transition: 0.5s;
+}
+.a_href_a{
+    padding: 30px ;
+}
+.header_ic_2{
+    padding: 15px;
+}
+.apple{
+    background: url(/img/apple.svg.svg);
+}
+.apple_txt{
+    justify-content: end;
+    display: block;
+}
